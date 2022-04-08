@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -13,4 +17,80 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.violeta {
+  text-decoration-color: #710fb3;
+}
+
+.example-container div {
+  background: white;
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+}
+
+.ancho {
+  width: 1024px;
+}
+
+@media (max-width: 640px) {
+  .sm\:hidden1 {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .sm\:text-base1 {
+    font-size: 1rem /* 16px */;
+    line-height: 1.5rem /* 24px */;
+  }
+}
+
+@media (min-width: 640px) {
+  .sm\:w22 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  .sm\:pl-01 {
+    padding-left: 20px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .md\:w1-8\/12 {
+    width: 80%;
+  }
+}
+
+@media (max-width: 425px) {
+  .md\:w2-8\/12 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .sm\:grid1-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .sm\:col1-auto {
+    grid-column: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .sm\:text1-xs {
+      font-size: 1rem/* 12px */;
+      line-height: 1rem/* 16px */;
+  }
+}
+
+#tsparticles {
+  height: 320px;
+  z-index: -1;
 }
