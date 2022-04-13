@@ -39,8 +39,8 @@ const Proyectos = () => {
                   SEARCH PUNK
                 </h1>
                 <p className="mt-1 text-sm ">
-                  Search Punk es una aplicación web en la que podes buscar
-                  items, ordenarlos por precio y por nombre. La desarrolle
+                  Search Punk es una aplicación web en la que puedes buscar
+                  items, ordenarlos por precio y por nombre. La desarrollé
                   cuando estaba aprendiendo sobre los estados y ciclos de vida
                   en React.
                 </p>
@@ -138,8 +138,8 @@ const Proyectos = () => {
               <div className="px-4 py-2 ">
                 <h1 className="text-3xl font-bold  uppercase ">GOTA WATER</h1>
                 <p className="mt-1 text-sm ">
-                  El Sitio Web de Gota Water se destaca por sus imagenes y
-                  videos de fondo, en el se muestran los productos y servicios
+                  El Sitio Web de Gota Water se destaca por sus imágenes y
+                  videos de fondo, en él se muestran los productos y servicios
                   que ofrece esta marca de agua mineral natural de calidad
                   premium. Fue desarrollado en HTML5, CSS3 y Javascript.
                 </p>
@@ -176,8 +176,8 @@ const Proyectos = () => {
               <div className="px-4 py-2">
                 <h1 className="text-3xl font-bold uppercase ">CORS</h1>
                 <p className="mt-1 text-sm pb-5">
-                  El Sitio Web de CORS espacios verdes se penso como un
-                  portfolio donde se muestran los trabajos en los que se destaca
+                  El Sitio Web de CORS espacios verdes se pensó como un
+                  porfolio donde se muestran los trabajos en los que se destaca
                   la empresa. <br />
                   Es responsive y fue desarrollado en HTML5, CSS3 y Javascript.
                 </p>

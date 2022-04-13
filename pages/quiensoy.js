@@ -29,11 +29,10 @@ const Quiensoy = () => {
         </div>
 
         <article className="grid h-auto card rounded-sm place-items-center pt-10 text-left">
-          Actualmente me encuentro trabajando en el sector energético. Mi
-          objetivo es dedicarme FullTime al desarrollo web. Para ello me
-          encuentro trabajando en diferentes proyectos utilizando el stack MERN
-          (Mongo + Express + React + Node). Estoy en constante aprendizaje
-          realizando cursos e interiorizándome en nuevas tecnologías.
+        Actualmente me encuentro trabajando en el sector energético. Mi objetivo es dedicarme 
+        plenamente al desarrollo web. En función de ese objetivo estoy trabajando en diferentes 
+        proyectos utilizando el stack MERN (Mongo + Express + React + Node). Estoy en constante 
+        aprendizaje realizando cursos e interiorizándome en nuevas tecnologías.
         </article>
 
         <div className="grid grid-cols-3 gap-4 place-items-center pt-10">
