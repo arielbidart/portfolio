@@ -19,8 +19,8 @@ const Contacto = () => {
   return (
     <>
       <div className="pt-10">
-        <div id="contacto" className="divider text-3xl">
-          CONTACTO
+        <div id="contact" className="divider text-3xl">
+          CONTACT
         </div>
 
         <div className="grid rounded-sm gap-2 place-items-center grid-flow-col pt-20">
@@ -69,7 +69,7 @@ const Contacto = () => {
 
         <footer className="footer rounded-sm footer-center p-10 bg-base-200 text-base-content  ">
           <div className="grid">
-            <p className="text-center">Creado con Nextjs</p>
+            <p className="text-center">Created with Next.js</p>
             <div className="flex gap-2 text-2xl">
               <SiNextdotjs />
               <SiTailwindcss />

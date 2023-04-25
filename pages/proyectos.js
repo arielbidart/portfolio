@@ -22,8 +22,8 @@ const Proyectos = () => {
   return (
     <>
       <div className="pt-10">
-        <div id="proyectos" className="divider text-3xl">
-          MIS PROYECTOS
+        <div id="projects" className="divider text-3xl">
+        MY PROJECTS
         </div>
 
         <div className="container py-0 mx-auto pt-5">
@@ -39,10 +39,9 @@ const Proyectos = () => {
                   SEARCH PUNK
                 </h1>
                 <p className="mt-1 text-sm ">
-                  Search Punk es una aplicación web en la que puedes buscar
-                  items, ordenarlos por precio y por nombre. La desarrollé
-                  cuando estaba aprendiendo sobre los estados y ciclos de vida
-                  en React.
+                Search Punk is a web application where you can search for items, 
+                sort them by price and name. I developed it when I was learning 
+                about states and lifecycle methods in React.
                 </p>
               </div>
 
@@ -75,7 +74,7 @@ const Proyectos = () => {
                   target="_blank"
                   className="px-5 py-2 font-semibold transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
                 >
-                  Visitar Sitio
+                  View
                 </a>
               </div>
             </motion.div>
@@ -89,8 +88,8 @@ const Proyectos = () => {
               <div className="px-4 py-2">
                 <h1 className="text-3xl font-bold  uppercase da">MERN App</h1>
                 <p className="mt-1 text-sm pb-6">
-                  Aplicación web FullStack usando Mongodb, Express, React y
-                  Node. Permite subir posts con imágenes, editarlas y borrarlas.
+                Full-stack web application using MongoDB, Express, React, and Node. 
+                It allows users to upload posts with images, edit them, and delete them.
                 </p>
               </div>
 
@@ -124,7 +123,7 @@ const Proyectos = () => {
                   target="_blank"
                   className="px-5 py-2 font-semibold  transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
                 >
-                  Visitar Sitio
+                  View
                 </a>
               </div>
             </motion.div>
@@ -138,10 +137,9 @@ const Proyectos = () => {
               <div className="px-4 py-2 ">
                 <h1 className="text-3xl font-bold  uppercase ">GOTA WATER</h1>
                 <p className="mt-1 text-sm ">
-                  El Sitio Web de Gota Water se destaca por sus imágenes y
-                  videos de fondo, en él se muestran los productos y servicios
-                  que ofrece esta marca de agua mineral natural de calidad
-                  premium. Fue desarrollado en HTML5, CSS3 y Javascript.
+                The Gota Water website stands out for its background images and videos,
+                showcasing the products and services offered by this premium quality natural 
+                mineral water brand. It was developed using HTML5, CSS3, and Javascript.
                 </p>
               </div>
               <Image
@@ -162,7 +160,7 @@ const Proyectos = () => {
                   target="_blank"
                   className="px-5 py-2 font-semibold  transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
                 >
-                  Visitar Sitio
+                  View
                 </a>
               </div>
             </motion.div>
@@ -176,10 +174,9 @@ const Proyectos = () => {
               <div className="px-4 py-2">
                 <h1 className="text-3xl font-bold uppercase ">CORS</h1>
                 <p className="mt-1 text-sm pb-5">
-                  El Sitio Web de CORS espacios verdes se pensó como un
-                  porfolio donde se muestran los trabajos en los que se destaca
-                  la empresa. <br />
-                  Es responsive y fue desarrollado en HTML5, CSS3 y Javascript.
+                The CORS Green Spaces website was designed as a portfolio to showcase the companys
+                 highlighted works. <br />
+                 It is responsive and was developed in HTML5, CSS3, and Javascript.
                 </p>
               </div>
 
@@ -201,7 +198,7 @@ const Proyectos = () => {
                   target="_blank"
                   className="px-5 py-2 font-semibold  transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
                 >
-                  Visitar Sitio
+                  View
                 </a>
               </div>
             </motion.div>
@@ -245,7 +242,7 @@ const Proyectos = () => {
                   target="_blank"
                   className="px-5 py-2 font-semibold  transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
                 >
-                  Visitar Sitio
+                  View
                 </a>
               </div>
             </motion.div> */}

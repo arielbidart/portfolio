@@ -25,14 +25,17 @@ const Quiensoy = () => {
           id="quiensoy"
           className="divider md:text-4xl xl:text-4xl sm:text-xs"
         >
-          SOBRE MI
+          ABOUT ME
         </div>
 
         <article className="grid h-auto card rounded-sm place-items-center pt-10 text-left">
-        Actualmente me encuentro trabajando en el sector energético. Mi objetivo es dedicarme 
-        plenamente al desarrollo web. En función de ese objetivo estoy trabajando en diferentes 
-        proyectos utilizando el stack MERN (Mongo + Express + React + Node). Estoy en constante 
-        aprendizaje realizando cursos e interiorizándome en nuevas tecnologías.
+        I have a strong foundation in the MERN stack, with experience building web applications 
+        using MongoDB, Express, React, and Node.js. I am always looking for ways to improve my 
+        skills and stay up-to-date with the latest technologies and best practices. I enjoy 
+        collaborating with others and sharing knowledge, and I am always open to learning new 
+        things and finding innovative solutions to challenges. In my work as a web developer, 
+        I strive to create high-quality, user-friendly applications that meet the needs of my 
+        clients and users.
         </article>
 
         <div className="grid grid-cols-3 gap-4 place-items-center pt-10">

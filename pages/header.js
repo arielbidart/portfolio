@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
       <main
-        id="inicio"
+        id="home"
         className="flex justify-center items-center bg-base-100 rounded-xl"
       >
         <div className="z-10 absolute sm:w22 opacity-10">

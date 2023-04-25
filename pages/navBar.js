@@ -40,9 +40,9 @@ const Navbar = () => {
                 smooth={true}
                 offset={-70}
                 duration={1000}
-                to="inicio"
+                to="home"
               >
-                Inicio
+                Home
               </Link>
             </li>
 
@@ -53,9 +53,9 @@ const Navbar = () => {
                 smooth={true}
                 offset={-70}
                 duration={1000}
-                to="proyectos"
+                to="projects"
               >
-                Proyectos
+                Projects
               </Link>
             </li>
             <li>
@@ -65,9 +65,9 @@ const Navbar = () => {
                 smooth={true}
                 offset={-70}
                 duration={1000}
-                to="contacto"
+                to="contact"
               >
-                Contacto
+                Contact
               </Link>
             </li>
             <label className="swap swap-rotate">
@@ -101,7 +101,7 @@ const Navbar = () => {
           href="./Ariel-Bidart-CV.pdf"
           className="btn btn-ghost normal-case text-xl"
         >
-          Descargar CV
+          Download CV
         </a>
       </div>
       <div className="navbar-end hidden lg:flex ">
@@ -113,9 +113,9 @@ const Navbar = () => {
               smooth={true}
               offset={-70}
               duration={1000}
-              to="inicio"
+              to="home"
             >
-              Inicio
+              Home
             </Link>
           </li>
 
@@ -126,9 +126,9 @@ const Navbar = () => {
               smooth={true}
               offset={-70}
               duration={1000}
-              to="proyectos"
+              to="projects"
             >
-              Proyectos
+              Projects
             </Link>
           </li>
           <li>
@@ -138,9 +138,9 @@ const Navbar = () => {
               smooth={true}
               offset={-70}
               duration={1000}
-              to="contacto"
+              to="contact"
             >
-              Contacto
+              Contact
             </Link>
           </li>
 
