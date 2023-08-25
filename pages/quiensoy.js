@@ -1,13 +1,12 @@
 import React from "react";
 import { GrReactjs } from "react-icons/gr";
-import { IoLogoJavascript, IoLogoGithub, IoLogoNodejs } from "react-icons/io";
+import { IoLogoJavascript, IoLogoNodejs } from "react-icons/io";
 import {
   SiRedux,
   SiMongodb,
   SiPostgresql,
   SiMysql,
   SiOracle,
-  SiMaterialui,
   SiTailwindcss,
   SiExpress,
   SiNextdotjs,
@@ -89,16 +88,7 @@ const Quiensoy = () => {
                   <SiRedux />
                 </motion.div>
               </button>
-
-              <button className="md:md:text-4xl xl:text-4xl sm:text-xs xl:md:text-4xl ">
-                <motion.div
-                  whileHover={{ scale: 1.8 }}
-                  whileTap={{ scale: 4.0 }}
-                  animate={{ rotate: 360 }}
-                >
-                  <SiMaterialui />
-                </motion.div>
-              </button>
+              
               <button className="md:md:text-4xl xl:text-4xl sm:text-xs xl:md:md:text-4xl  xl:md:text-4xl ">
                 <motion.div
                   whileHover={{ scale: 1.8 }}
@@ -277,7 +267,7 @@ const Quiensoy = () => {
               whileTap={{ scale: 4.0 }}
               animate={{ rotate: 360 }}
             >
-              <SiMaterialui />
+              <SiMaterialdesign />
             </motion.div>
           </button>
           <button className="md:text-4xl xl:text-4xl sm:text-xs">

@@ -1,17 +1,11 @@
 import React from "react";
 import { GrReactjs } from "react-icons/gr";
 import Image from "next/image";
-import { IoLogoJavascript, IoLogoGithub, IoLogoNodejs } from "react-icons/io";
+import { IoLogoJavascript, IoLogoGithub } from "react-icons/io";
 import {
-  SiRedux,
   SiMongodb,
-  SiPostgresql,
-  SiMysql,
-  SiOracle,
-  SiMaterialui,
   SiTailwindcss,
   SiExpress,
-  SiNextdotjs,
   SiHtml5,
   SiCss3,
   SiNodedotjs,
@@ -56,7 +50,6 @@ const Proyectos = () => {
               <div className="flex items-center justify-between px-4 py-2 ">
                 <h1 className="text-lg font-bold  grid grid-cols-10 gap-2">
                   <SiHtml5 /> <SiCss3 /> <GrReactjs /> <IoLogoJavascript />{" "}
-                  <SiMaterialui />
                 </h1>
 
                 <a
