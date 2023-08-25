@@ -60,7 +60,7 @@ const Proyectos = () => {
                 </h1>
 
                 <a
-                  href="https://github.com/afbweb/search-punk"
+                  href="https://github.com/arielbidart/search-punk"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="px-5 py-2 font-semibold transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
@@ -109,7 +109,7 @@ const Proyectos = () => {
                 </h1>
 
                 <a
-                  href="https://github.com/afbweb/mern-crud"
+                  href="https://github.com/arielbidart/mern-crud"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="px-5 py-2 font-semibold transition-colors duration-200 transform  rounded-md hover:bg-gray-200"
@@ -229,7 +229,7 @@ const Proyectos = () => {
                 </h1>
 
                 <a
-                  href="https://github.com/afbweb/mern-crud"
+                  href="https://github.com/arielbidart/mern-crud"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="px-5 py-2 font-semibold transition-colors duration-200 transform  rounded-md hover:bg-gray-200"

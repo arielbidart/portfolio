@@ -57,7 +57,7 @@ const Contacto = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/afbweb"
+              href="https://github.com/arielbidart"
               className="link link-hover text-lg sm:text1-xs "
             >
               afbweb
